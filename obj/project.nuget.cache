@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDhFUAN5Vwp3YxUn4p/cjUMT1qTyW1XdT+lwz5PG9+dBNbzgWPfKM+vrXIdKgVkMqo7gIbIUKxgPHKdARI1tjg==",
+  "success": true,
+  "projectFilePath": "C:\\localizalabs\\transf.banco\\Transf.Banco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudio\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

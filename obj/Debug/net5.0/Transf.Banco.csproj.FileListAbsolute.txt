@@ -1,0 +1,16 @@
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.exe
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.deps.json
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.runtimeconfig.json
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.runtimeconfig.dev.json
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.dll
+C:\localizalabs\transf.banco\bin\Debug\net5.0\ref\Transf.Banco.dll
+C:\localizalabs\transf.banco\bin\Debug\net5.0\Transf.Banco.pdb
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.csprojAssemblyReference.cache
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.AssemblyInfoInputs.cache
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.AssemblyInfo.cs
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.csproj.CoreCompileInputs.cache
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.dll
+C:\localizalabs\transf.banco\obj\Debug\net5.0\ref\Transf.Banco.dll
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.pdb
+C:\localizalabs\transf.banco\obj\Debug\net5.0\Transf.Banco.genruntimeconfig.cache
